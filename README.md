@@ -1,1 +1,12 @@
-# -um-weg
+Mein Name ist Jonathan Müller und ich bin Mitgründer des Tech-Start-Ups HYBEAM. HYBEAM verbindet reale Räume und virtuelle Inhalte durch Mixed Reality und ermöglicht ortsunabhängige Zusammenarbeit und echte, hybride Workshops und Events.
+Vor HYBEAM habe ich meinen Bachelor & Master in Angewandter Informatik an der Fachhochschule Erfurt gemacht.
+Wenn ihr jetzt denkt, ich stehe hier bestimmt, weil ich so ein herausragender Student war – dann muss ich euch enttäuschen.
+Während meines Studiums bin ich bei 6 von 18 Prüfungen im ersten Versuch durchgefallen und habe sie erst im Zweitversuch bestanden. Und rückblickend kann ich sagen: Das ist in Ordnung.
+Denn heute stehe ich trotzdem hier und darf über meine Erfahrungen sprechen.
+Im Leben – und auch im Studium – muss nicht alles auf Anhieb funktionieren oder perfekt laufen. Vor euch liegt eine Zeit des Lernens und des Suchens – nicht des schon Alles-Wissens oder des schon Alles-Könnens.
+Wie bereits gesagt: Prüfungen lagen mir nicht so. In meinem dritten Semester habe ich daher eine Prüfungsleistung durch eine Projektarbeit ersetzt. Stattdessen habe ich eine kurze Virtual Reality Anwendung entwickelt, in der man eine kleine Windmühle aus 3D Teilen zusammen baut.
+Und trotz mehrfachem Scheitern in Prüfungen, kam ich so durch eine Empfehlung des Professors im 5. Semester an einen Praktikumsplatz, bei dem es ebenfalls um VR-Anwendungen ging. Und danach arbeitete ich parallel zum Studium als wissenschaftliche Assistenz in diesem Bereich und schrieb auch meine Bachelor- und Masterarbeit darüber. Manchmal fügen sich die Dinge dann doch. Und als ich mein Studium begonnen habe, wusste ich das alles noch nicht. Und ich glaube, das war in Ordnung.
+Ich bin sehr dankbar, für die Menschen, die mir die Chancen gegeben haben.
+Über meinte Arbeit lernte ich übrigens auch meine jetzige Mitgründerin Lily Kruse kennen, die sich noch länger mit VR auseinandersetze als ich. Kurz darauf kam auch Annika Augner als dritte Mitgründerin mit in unser Team und ich bin immer wieder dankbar, dass ich zwei so inspirierende Mitgründerinnen habe. Wir lernen immer wieder tolle Menschen mit ganz unterschiedlichen Ideen kennen und wir alle wünschen uns zukünftig noch viel mehr Frauen und Personen mit ganz verschiedenen Hintergründen in der Start-up-Tech-Welt zu treffen.
+Ich wünsche euch, dass auch ihr die Studien-Zeit nutzen könnt, um euch selbst und auch die Welt besser kennenzulernen. Und ich wünsche mir, dass ihr ebenfalls ganz unterschiedlichen Menschen begegnet und zahlreiche Chancen erhaltet, voneinander zu lernen.
+Vielen Dank!
